@@ -22,12 +22,9 @@ This project offers a comprehensive exploration of how graph databases can be us
 - **Graph Algorithm:** Application of Similarity algorithm to identify citation patterns between research papers. 
 
 ## Assumptions and Design Decisions
--**Data Modeling:** 
-The graph model was designed to optimize query performance for common research-related task (e.g., finiding top-cited papers, year published, etc) 
--**Data Sources:** 
-Due to time constraints the data used for this project was synthetic rather than sourced online. 
--**Data Evolution:** 
-The model was extended to include paper reviews and author affiliations to reflect real-world scenarios where such data would evolve over time.  
+-**Data Modeling:** The graph model was designed to optimize query performance for common research-related task (e.g., finiding top-cited papers, year published, etc).
+-**Data Sources:** Due to time constraints the data used for this project was synthetic rather than sourced online. 
+-**Data Evolution:** The model was extended to include paper reviews and author affiliations to reflect real-world scenarios where such data would evolve over time.  
 
 ## Setup and Installation 
 **Application Requirements**
