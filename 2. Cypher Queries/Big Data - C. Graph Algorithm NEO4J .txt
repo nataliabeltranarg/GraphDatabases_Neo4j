@@ -1,0 +1,31 @@
+﻿Section C:
+Graph Algorithms 
+
+
+Will be looking into Similarity algorithms focusing on node similarity. 
+
+
+Start of by creating the graph projection
+//create graph projection
+CALL gds.graph.project(
+'paperGraph',
+'paper',
+{
+p2p_cites: {
+orientation: 'UNDIRECTED'}})
+
+
+Node Similarity algorithm
+//run node similarity algorithm
+CALL gds.nodeSimilarity.stream('paperGraph')
+YIELD node1, node2, similarity
+RETURN gds.util.asNode(node1).title AS Paper1, gds.util.asNode(node2).title AS Paper2, similarity
+ORDER BY similarity DESCENDING, Paper1, Paper2
+
+
+
+
+Interpreting Results of Similarity algorithm
+// High similarity: ~ 1.0 
+// Moderate similarity: 0.2 ~ 0.5 
+// Low similarity ~ 0.0
