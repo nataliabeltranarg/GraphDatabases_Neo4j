@@ -1,7 +1,7 @@
 // Section C: Graph Algorithms 
 //  Applied Similarity Algorithms focus on Node Similarity to identify similar citation patterns between research papers. 
 
-//Creating Graph Projection
+// Creating Graph Projection
 CALL gds.graph.project(
 'paperGraph',
 'paper',
