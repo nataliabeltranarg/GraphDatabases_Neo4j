@@ -58,8 +58,7 @@ cd GraphDatabases_Neo4j
 ## How to navigate the repository
 ```bash 
 ├── 1. Data
-│   ├── Graph Modeling
-│   │   └── A1.Modeling-Graph.jpg
+│   ├── A1.ModelingGraph.jpg
 │   ├── Synthetic Data
 │   │   ├── Neo4j Data
 │   │   │   ├── edges
@@ -67,34 +66,14 @@ cd GraphDatabases_Neo4j
 │   │   │   └── original json files created 
 │   │   └── BigData-NataliaClarice-DataCreation.ipynb
 ├── 2. Cypher Queries
-│   ├── 
-│   │   ├── 
-│   │   └── 
-│   ├── 
-│   │   ├── 
-│   │   └── 
-│   └── 
+│   ├── A.Modeling,Loading,Evolving
+│   │   ├── A2.Loading-Instantiating.cypher
+│   │   └── A3.Modification.cypher
+│   ├── B.Querying
+│   │   └── Queries.cypher
+│   ├── C.Graph Algorithm
+│   │   └── SimilarityAlgorithm.cypher
 ├── 3. Report
 │   └── BSE-BigDataManagement-NataliaBeltran-ClariceMottet.pdf
-├── 4. 
-│   ├── 
-│   │   ├── 
-│   │   ├── 
-│   │   └── 
-│   ├── 
-│   │   ├── 
-│   │   └── 
-│   └── 
-│   │   ├── 
-│   │   └── 
-├── 5. 
-│   ├── 
-│   ├── 
-│   ├── 
-│   └── 
-├── 6. 
-│   ├── 
-│   ├── 
-│   └── 
 └── README.md
 ```
