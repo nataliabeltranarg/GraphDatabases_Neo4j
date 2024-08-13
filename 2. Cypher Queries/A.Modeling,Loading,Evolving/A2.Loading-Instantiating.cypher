@@ -1,7 +1,7 @@
 //Section A.2: Loading/Instantiating
 
 
-// Loading the DATA
+// Loading the synthetic DATA
 // NODES 
 
 // Load nodes from authors.csv
