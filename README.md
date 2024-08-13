@@ -39,7 +39,7 @@ The following setup guide should provide you with the necessary steps to get the
 **1. Clone repository**
 ```
 git clone https://github.com/nataliabeltranarg/GraphDatabases_Neo4j.git
-cd BDM_GraphDatabases
+cd GraphDatabases_Neo4j
 ```
 **2. Set Up Neo4j**
    - *Install Neo4j Desktop:* Download and install Neo4j Desktop. 
