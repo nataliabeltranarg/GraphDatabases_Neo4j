@@ -1,5 +1,7 @@
 // Section A.3: Modification
 
+// This Cypher file contains the queries used to update the graph created in sections A1. Modeling. 
+
 // Remove previously created author to paper reviewer relationship
 MATCH ()-[r:a2p_reviewed]->()
 DELETE r
