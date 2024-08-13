@@ -58,8 +58,7 @@ cd GraphDatabases_Neo4j
 ## How to navigate the repository
 ```bash 
 ├── 1. Data
-│   ├── Graph Modeling
-│   │   └── A1.ModelingGraph.jpg
+│   ├── A1.ModelingGraph.jpg
 │   ├── Synthetic Data
 │   │   ├── Neo4j Data
 │   │   │   ├── edges
