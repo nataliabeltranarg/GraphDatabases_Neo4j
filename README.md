@@ -38,7 +38,7 @@ The following setup guide should provide you with the necessary steps to get the
 
 **1. Clone repository**
 ```
-git clone https://github.com/claricemottet/BDM_GraphDatabases.git
+git clone https://github.com/nataliabeltranarg/GraphDatabases_Neo4j.git
 cd BDM_GraphDatabases
 ```
 **2. Set Up Neo4j**
