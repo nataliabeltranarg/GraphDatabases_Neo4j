@@ -1,4 +1,4 @@
-// Section A.3: Modification
+// Section A.3: Evolving the Graph 
 
 // This Cypher file contains the queries used to update the graph created in sections A1. Modeling. 
 
