@@ -54,11 +54,6 @@ cd BDM_GraphDatabases
 - Neo4j Browser:
    - To execute and explore the graph data you will have to access the Neo4j Browser. This can be accessed by navigating to the http://localhost:7474 in your web browser. 
 - Execute algorithm queries for analysis. 
-  
-## Contact the Authors 
-For additional questions, feel free to reach out to the authors of this project:
-- Natalia Beltrán (nataliabeltranarg@gmail.com)
-- Clarice Mottet (clarice.mottet@bse.eu)
 
 ## How to navigate the repository
 ```bash 
