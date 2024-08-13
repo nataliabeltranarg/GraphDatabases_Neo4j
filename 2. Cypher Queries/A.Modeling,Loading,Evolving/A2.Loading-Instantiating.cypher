@@ -1,7 +1,6 @@
 //Section A.2: Loading/Instantiating
+// Loading the synthetic DATA from the CSV into Neo4j
 
-
-// Loading the synthetic DATA
 // NODES 
 
 // Load nodes from authors.csv
@@ -85,7 +84,7 @@ RETURN y
 LIMIT 3
 
 
-// EDGES - Relationships 
+// EDGES -> Relationships 
 
 // Load author to paper relationships (Reviewing) - a2p_reviewed
 LOAD CSV WITH HEADERS FROM 'file:///a2p_reviewed.csv' AS row
