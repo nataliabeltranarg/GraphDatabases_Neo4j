@@ -1,5 +1,5 @@
 // Section B: Querying 
-
+// The following Cypher queries are to run on the build graph loaded and instantiang in part A.Modeling,Loading,Evolving. 
 
 // Query 1 
 // Find the top 3 most cited papers of each conference.        
