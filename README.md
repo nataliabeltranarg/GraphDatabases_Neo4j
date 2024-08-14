@@ -61,7 +61,7 @@ cd NoSQL_GraphDatabases_Neo4j
 │   │   ├── Neo4j Data
 │   │   │   ├── edges
 │   │   │   ├── nodes
-│   │   │   └── original json files created 
+│   │   │   └── original-json-files-created 
 │   │   └── BigData-NataliaClarice-DataCreation.ipynb
 ├── 2. Cypher Queries
 │   ├── A.Modeling,Loading,Evolving
